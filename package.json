@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "xusf",
-  "license": "MIT",
-  "devDependencies": {
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "multer": "^1.4.1"
+  },
+  "devDependencies": {
+
   }
 }
